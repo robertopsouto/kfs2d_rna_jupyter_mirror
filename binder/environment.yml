@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - heapdict
-  - libgfortran
+  - gfortran_linux-64
   - libblas
   - liblapack
   - openmpi
