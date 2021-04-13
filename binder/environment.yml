@@ -3,10 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - heapdict
-  - gfortran_linux-64
-  - libblas
-  - liblapack
-  - openmpi
   - gnuplot
   - matlab_kernel
   - sos-notebook

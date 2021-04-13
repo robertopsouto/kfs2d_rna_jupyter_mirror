@@ -1,2 +1,10 @@
 libglu1
 gfortran
+libopenmpi-dev
+libopenmpi2
+openmpi-bin
+openmpi-common
+libblas3
+libblas-dev
+liblapack3
+liblapack-dev
