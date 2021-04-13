@@ -4,7 +4,8 @@ channels:
 dependencies:
   - heapdict
   - gnuplot
-  - matlab_kernel
+  - octave
+  - octave_kernel
   - sos-notebook
-  - sos-matlab
+  - sos-octave
   - notebook
