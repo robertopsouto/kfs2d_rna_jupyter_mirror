@@ -1,6 +1,1 @@
 libglu1
-gfortran
-libblas-dev
-libblas3
-liblapack-dev
-liblapack3

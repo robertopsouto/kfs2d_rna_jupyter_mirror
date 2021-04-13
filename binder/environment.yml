@@ -2,10 +2,13 @@ name: kfs2d_rna_notebook
 channels:
   - conda-forge
 dependencies:
-  - openmpi
   - heapdict
+  - libgfortran
+  - libblas
+  - liblapack
+  - openmpi
   - gnuplot
-  - octave
-  - octave_kernel
+  - matlab_kernel
   - sos-notebook
+  - sos-matlab
   - notebook
