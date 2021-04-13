@@ -1,0 +1,10 @@
+name: kfs2d_rna_notebook
+channels:
+  - conda-forge
+dependencies:
+  - heapdict
+  - gnuplot
+  - octave
+  - octave_kernel
+  - sos-notebook
+  - notebook

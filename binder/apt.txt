@@ -1,0 +1,4 @@
+libglu1
+gfortran
+openmpi-bin
+openmpi-common
