@@ -4,5 +4,3 @@ libblas-dev
 libblas3
 liblapack-dev
 liblapack3
-openmpi-bin
-openmpi-common

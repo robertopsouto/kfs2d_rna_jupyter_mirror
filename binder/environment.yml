@@ -2,6 +2,7 @@ name: kfs2d_rna_notebook
 channels:
   - conda-forge
 dependencies:
+  - openmpi
   - heapdict
   - gnuplot
   - octave
